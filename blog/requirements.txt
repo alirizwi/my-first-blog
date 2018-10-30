@@ -151,7 +151,7 @@ simplegeneric==0.8.1
 six==1.10.0
 smmap2==2.0.2
 snowballstemmer==1.2.1
-Sphinx==1.4.9
+Sphinx
 SQLAlchemy==1.1.6
 SQLAlchemy-Defaults==0.4.4
 SQLAlchemy-Utils==0.29.9
