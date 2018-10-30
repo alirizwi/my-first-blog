@@ -1,6 +1,6 @@
 alabaster
 alembic==0.9.1
-appdirs==1.4.3
+appdirs
 apturl==0.5.2
 asn1crypto==0.22.0
 astroid==1.5.3
